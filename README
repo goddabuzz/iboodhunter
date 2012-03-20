@@ -1,0 +1,9 @@
+Yez, you need node.js 
+
+Install:
+	npm install
+
+Run: node run.js
+
+ctrl+c to quit. heh
+
