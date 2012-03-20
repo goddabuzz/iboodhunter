@@ -1,0 +1,9 @@
+{
+    "name": "ibood-hunter",
+    "description":"get the ibood hunts in terminal",
+    "author":"Daniel Kloosterman",
+    "version": "0.0.1",
+    "dependencies": {
+        "colors": "0.6.0"
+    }
+}
